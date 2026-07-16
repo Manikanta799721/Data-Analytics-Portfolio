@@ -1,0 +1,111 @@
+# Real-Time-Air-Quality-INdex
+
+## 📌 Project Overview
+
+This project demonstrates data analysis and dashboard creation using Microsoft Excel. The objective was to clean raw data, perform exploratory analysis, create pivot tables, and build an interactive dashboard to generate meaningful business insights.
+
+---
+
+## 🎯 Objectives
+
+- Clean and preprocess raw data.
+- Perform exploratory data analysis (EDA).
+- Create Pivot Tables for data summarization.
+- Build an interactive Excel Dashboard.
+- Generate business insights using visualizations.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📂 Repository Structure
+
+```
+Excel/
+│── Cleaned Dataset.xlsx
+│── Uncleaned Dataset.xlsx
+│── Dashboard.png
+│── Pivot Table 1.png
+│── Pivot Table 2.png
+│── Pivot Table 3.png
+│── Pivot Table 4.png
+│── Pivot Table 5.png
+│── REPORT.pdf
+│── Insights.md
+README.md
+```
+
+---
+
+## 📈 Dashboard Preview
+
+![Dashboard](Excel/dashboard.png)
+
+---
+
+## 📊 Analysis Performed
+
+- Data Cleaning
+- Duplicate Removal
+- Missing Value Handling
+- Data Formatting
+- Pivot Tables
+- KPI Analysis
+- Interactive Dashboard Creation
+
+---
+
+## 📌 Key Insights
+
+- Identified trends and patterns within the dataset.
+- Compared different categories using Pivot Tables.
+- Created KPIs for business performance tracking.
+- Built visualizations for easier decision-making.
+- Presented insights through an interactive Excel dashboard.
+
+---
+
+## 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| Cleaned Dataset | Final cleaned dataset used for analysis |
+| Uncleaned Dataset | Original raw dataset |
+| Dashboard | Interactive Excel Dashboard |
+| Pivot Tables | Data summarization and analysis |
+| Report | Complete project documentation |
+| Insights | Business insights derived from analysis |
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Excel Functions
+- Pivot Tables
+- Dashboard Design
+- Data Visualization
+- Business Insight Generation
+
+---
+
+## 📬 Contact
+
+**Manikanta Eswar Reddy**
+
+- GitHub: https://github.com/Manikanta799721
+- LinkedIn: *(Add your LinkedIn profile here)*
+
+---
+
+⭐ If you found this project useful, don't forget to star the repository!
